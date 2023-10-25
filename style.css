@@ -1,0 +1,43 @@
+.sectionLight{
+    background-color: lightgray;
+    padding: 1rem;
+}
+.sectionDark{
+    background-color: #e0e0eb;
+    padding: 1rem;
+}
+.coolStuffWrapper{
+    margin: 25px;
+    
+}
+button.coolStuffBtn{
+    display: block;
+    background-color: #007D51;
+    color: #ffffff;
+    margin: auto;
+}
+h5.modal-title{
+    margin: auto;
+    
+}
+.modalFromWrapper{
+padding: 2rem;
+}
+.imgCenter{
+    display: block;
+    margin: auto;
+    padding: 2rem;
+}
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 7px;
+    margin-bottom: 20px;
+    width:68%;
+}
+.footerImg{
+    padding: 15px;
+}
+.fa-facebook-f{
+    color:#4267B2;
+}
